@@ -6,7 +6,7 @@ public class SelectCommand implements CommandGenerator {
             
     }
     
-    public String commandGene () {
+    public String geneCommand () {
         
     }
 }
